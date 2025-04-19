@@ -3,3 +3,4 @@ certifi==2024.2.2
 colorama==0.4.6
 discord.py==2.3.2
 mysql-connector-python==8.4.0
+hatesonar==0.0.7
